@@ -21,9 +21,9 @@
 
 
 import './App.css'
-import MainContent from './components/maincontent/Maincontent'
-import Footer from './components/Footer/Footer'
-import Header from './components/Header/Header'
+import MainContent from './components/maincontent/maincontent'
+import Footer from './components/footer/footer'
+import Header from './components/header/header'
 function App() {
 
 
